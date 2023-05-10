@@ -21,3 +21,4 @@ outra linha
 
 
 forçando conflito
+linha conflito
