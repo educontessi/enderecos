@@ -17,3 +17,7 @@ branch correção de bug
 
 
 outra linha
+
+
+
+linha conflito
